@@ -1,4 +1,4 @@
-# Documentacion  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+# Documentacion  ![Markdown](https://img.shields.io/badge/Made%20with-Narkdown-1f425f.svg)
 
  En esta sección se encontrarán los archivos de código fuente que dan la funcionalidad operativa a la aplicación web, además de la conexión y configuración a la Base de Datos Relacional (SQL) que permitirá la persistencia de los datos recolectados. 
 
