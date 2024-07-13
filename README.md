@@ -1,0 +1,2 @@
+# Asesoria ramales y funsiones - integradora 
+En este proyecto  se realizaran pruebas de creacion (**branch**), acceso (**checkout**) , cambios (**commits**) y fusiones(**merch**), de archivos y carpetas de un proyecto de software.
